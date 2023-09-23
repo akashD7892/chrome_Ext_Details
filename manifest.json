@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2 ,
+    "name" : "Erakash",
+    "version": "1.0" ,
+    "description": " Details with links of your priject and social medias",
+    "browser_action":{
+         "default_popup":"index.html"
+    },
+    "permission":["activeTab"]
+}
